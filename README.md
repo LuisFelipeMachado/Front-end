@@ -1,4 +1,4 @@
-## Oiii eu sou o luis, Gosto de programação e tecnologia!
+## Oiii eu sou o Luis Felipe, Gosto de programação, Finanças, Investimentos e Tecnologia!
 <div align="center">
   <a href="https://github.com/LuisFelipeMachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFelipeMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
